@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get to know me
+title: Get to know the person behind 
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg
