@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get to know the person behind 1
+title: Get to know the person behind 13 going on 27.
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg
